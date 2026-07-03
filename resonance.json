@@ -42,11 +42,11 @@
       "gitlab_project_id": 83081381
     },
     "fork-catalog-data": {
-      "version": 1,
-      "tag": "fork-catalog-data-v0.0.1",
-      "sha256": "f81094489d2cde0aca9850d6f2b3163d444ac31aa1a12d90de9a4d90cb50f40a",
-      "size": 800070,
-      "original_size": 319488,
+      "version": 2,
+      "tag": "fork-catalog-data-v0.1.0",
+      "sha256": "090380c429ba22c3abda6445885b0c3ab3ece578ee614196b2e695717ae5b218",
+      "size": 998481,
+      "original_size": 5017600,
       "archive": "fork_catalog.db.gz",
       "github_repo": "MakaiForge/the-bootstrap",
       "gitlab_project_id": 83110945
