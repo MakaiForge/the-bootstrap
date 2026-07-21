@@ -21,16 +21,6 @@
       "github_repo": "MakaiForge/the-bootstrap",
       "gitlab_project_id": 83101354
     },
-    "catalogo-db": {
-      "version": 1,
-      "tag": "catalogo-db-v0.0.1",
-      "sha256": "af72a2fd992a5a6274035137dd5421f029683c61e50d0d5936bf7fc264a7555e",
-      "size": 55951414,
-      "original_size": 263843840,
-      "archive": "catalogo.db.gz",
-      "github_repo": "MakaiForge/the-bootstrap",
-      "gitlab_project_id": 83081380
-    },
     "proton-data-db": {
       "version": 2,
       "tag": "proton-data-db-v0.0.2",
@@ -50,16 +40,6 @@
       "archive": "fork_catalog.db.gz",
       "github_repo": "MakaiForge/the-bootstrap",
       "gitlab_project_id": 83110945
-    },
-    "game-dlls-data": {
-      "version": 1,
-      "tag": "game-dlls-data-v0.0.1",
-      "sha256": "c6adfbb599b6f441c07854a06b71b1cc2a41bc978c66e58a4c2f133b27e37746",
-      "size": 2947,
-      "original_size": 20480,
-      "archive": "game_dlls.db.gz",
-      "github_repo": "MakaiForge/the-bootstrap",
-      "gitlab_project_id": 83123076
     },
     "releases-data": {
       "version": 2,
