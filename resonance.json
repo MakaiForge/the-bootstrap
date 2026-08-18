@@ -2,10 +2,10 @@
   "version": 1,
   "components": {
     "bootstrap": {
-      "version": 2,
-      "tag": "bootstrap-v0.0.2",
-      "sha256": "e3a392743ca64f833cc046d5a967810b994e578ab49f4f9317537d566dd79fb1",
-      "size": 3741140,
+      "version": 3,
+      "tag": "bootstrap-v0.0.3",
+      "sha256": "e29b74e763de9ceca127aa723bca836d088f84ebcd7041503b2ab422b16294b8",
+      "size": 3742406,
       "original_size": 0,
       "archive": "bootstrap.tar.gz",
       "github_repo": "MakaiForge/the-bootstrap",
