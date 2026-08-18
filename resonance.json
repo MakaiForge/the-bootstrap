@@ -50,6 +50,16 @@
       "archive": "releases.tar.gz",
       "github_repo": "MakaiForge/the-bootstrap",
       "gitlab_project_id": 0
+    },
+    "catalogo-db": {
+      "version": 1,
+      "tag": "catalogo-db-v0.0.1",
+      "sha256": "af72a2fd992a5a6274035137dd5421f029683c61e50d0d5936bf7fc264a7555e",
+      "size": 55951414,
+      "original_size": 263843840,
+      "archive": "catalogo.db.gz",
+      "github_repo": "MakaiForge/the-bootstrap",
+      "gitlab_project_id": 83081380
     }
   }
 }
