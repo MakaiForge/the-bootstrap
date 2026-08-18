@@ -52,10 +52,10 @@
       "gitlab_project_id": 0
     },
     "catalogo-db": {
-      "version": 2,
-      "tag": "catalogo-db-v0.0.2",
-      "sha256": "af72a2fd992a5a6274035137dd5421f029683c61e50d0d5936bf7fc264a7555e",
-      "size": 55951414,
+      "version": 3,
+      "tag": "catalogo-db-v0.0.3",
+      "sha256": "1a4f76fc99ff2bce587962c49c1c877257a6945279b5340aba884a953fd1d7ae",
+      "size": 55951402,
       "original_size": 263843840,
       "archive": "catalogo.db.gz",
       "github_repo": "MakaiForge/the-bootstrap",
